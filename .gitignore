@@ -1,0 +1,13 @@
+*.class
+*.log
+.idea
+/js
+*target
+.DS_Store
+/forgerock-compose/tmp/openam-data/*
+/forgerock-compose/tmp/opendj-data/*
+/forgerock-compose/tmp/opendj-backup/*
+
+*.ensime*
+
+node_modules
